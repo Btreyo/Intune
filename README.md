@@ -1,5 +1,7 @@
 # Microsoft Endpoint Manager: Intune
-Contains scripts used for the Windows AutoPilot feature
+Contains: 
+- AutoPilot: scripts used for the Windows AutoPilot feature
+- Troubleshooting: 
 
 # Get Computer Hardware Hash or Product ID
 The AutoPilot-Get-HWHash.ps1 
