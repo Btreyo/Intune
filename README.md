@@ -3,8 +3,7 @@ Contains:
 - AutoPilot: scripts used for the Windows AutoPilot feature
 - Troubleshooting: 
 
-# Get Computer Hardware Hash or Product ID
-The AutoPilot-Get-HWHash.ps1 
+# The AutoPilot-Get-HWHash.ps1 
 : validates the script path change if necessary as this is set to: D:/HWID
 : calls Get-WindowsAutoPilotInfo.ps1 to collect the hardware hash
 : then exports to a .CSV file called "MSProdID-AutoPilot" 
